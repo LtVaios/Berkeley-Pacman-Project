@@ -1,6 +1,7 @@
 # Berkeley Pacman Project
  ➡️ Official project website and documentation about it: http://ai.berkeley.edu/project_overview.html) <br />  
- ➡️ I used various algorithms explained below to make a pacman eat all the dots (project 1) by itself and also made more complex algorithms to make it play and win the game by itself ghosts included (project 2). These files also include a real pacman game version you can play in your terminal. The graphics and the game files needed to play the actual game are not implemented by me, I only implemented the AI algorithms. You can find more info about the project in the link above.
+ ➡️ I used various algorithms explained below to make a pacman eat all the dots (project 1) by itself and also made more complex algorithms to make it play and win the game by itself ghosts included (project 2). These files also include a real pacman game version you can play in your terminal. The graphics and the game files needed to play the actual game are not implemented by me, I only implemented the AI algorithms. You can find more info about the project in the link above.<br /><br />
+:pencil2: Inside each .zip you will also find some of mine documentation (in Greek) on how the functions work but there are also a lot of code comments.
 
 ## Installation / run
 
