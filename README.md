@@ -1,12 +1,12 @@
 # Berkeley Pacman Project
  ➡️ Official project website and documentation about it: http://ai.berkeley.edu/project_overview.html) <br />  
  ➡️ I used various algorithms explained below to make a pacman eat all the dots (project 1) by itself and also made more complex algorithms to make it play and win the game by itself ghosts included (project 2). These files also include a real pacman game version you can play in your terminal. The graphics and the game files needed to play the actual game are not implemented by me, I only implemented the AI algorithms. You can find more info about the project in the link above.<br /><br />
-:pencil2: Inside each .zip you will also find some of mine documentation (in Greek) on how the functions work but there are also a lot of code comments.
+:pencil2: Inside each project folder you will also find some of mine documentation (in Greek) on how the functions work but there are also a lot of code comments.
 
 ## Installation / run
 
 ### 🏁 Project-1
-Download the .zip file and extract locally. Then open the code as project in an IDE and you can run these commands on the terminal while being in the folder /search:
+Download the folders and install them locally. You can run these commands on the terminal while being in the folder /search:
 <br /><br />
 :small_blue_diamond: DFS (Depth-first-search) Algorithm:
 ```
@@ -56,7 +56,7 @@ Download the .zip file and extract locally. Then open the code as project in an 
  ```
  
 ### :ghost: Project-2
-Download the .zip file and extract locally. Then open the code as project in an IDE and you can run these commands on the terminal while being in the folder /multiagents: <br /> <br />
+Download the folders and install them locally. You can run these commands on the terminal while being in the folder /multiagents: <br /> <br />
 :small_blue_diamond: Reflex Agent:
 ```
   $ python pacman.py --frameTime 0 -p ReflexAgent -k 1
